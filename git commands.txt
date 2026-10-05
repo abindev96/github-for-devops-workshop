@@ -2,3 +2,7 @@ git init
 git status
 git add
 git commit -m "message"
+git remote add origin <url>
+git remote -v
+git push origin master
+git remote set-url origin https://token@url
