@@ -7,4 +7,9 @@ git remote -v
 git push origin master
 git remote set-url origin https://token@url
 
-this is new changes
+
+git branch <newbranch name>
+git branch (to know which branch)
+git switch <branch name>  or check outgit 
+git log
+git log --oneline
